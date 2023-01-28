@@ -1,0 +1,45 @@
+body {
+    margin: 20px auto;
+    width: 60%;
+    padding: 0;
+    padding-left: 415px;
+}
+h2 {
+    text-align: center;
+}
+i.fab.fa-twitter {
+    color: #6dd1ef;
+    font-size: 43px;
+}
+input {
+    width: 43%;
+    border-color: gray;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+input:hover {
+    border: 1px solid #6dd1ef;
+}
+input[placeholder]:hover {
+    color:#6dd1ef;
+    opacity: 1;
+}
+button {
+    width: 46%;
+    padding: 12px;
+    border-radius: 23px;
+    background-color: #6dd1ef;
+    border: 1px solid #6dd1ef;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.other p {
+    text-align: center;
+    padding-left: 44px;
+    color: #6dd1ef;
+}
+.signup {
+    padding-left: 5px;
+}
